@@ -1,0 +1,2 @@
+alias sva='svn add'
+
