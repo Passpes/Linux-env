@@ -32,7 +32,7 @@ tmuxp load laghao <br />
 echo "export EDITOR=vim" > .baschrc <br />
 echo "set background=dark" > .vimrc <br />
 
-
+![alt text](https://raw.githubusercontent.com/Passpes/Linux-env/master/fonts/mintty-zsh-tmux-on%20UoW.JPG)
 
 notes:
 https://awhan.wordpress.com/2010/06/20/copy-paste-in-tmux/ 		:copy paste
