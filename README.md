@@ -1,5 +1,5 @@
 # Linux-env
-1-Install zsh
+1-Install zsh ^M
 apt-get install zsh
 curl -L git.io/antigen > antigen.zsh
 mkdir .antigen
